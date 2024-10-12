@@ -13,7 +13,7 @@ By Meng Tao, Zhang Fuchen, Shou Yuntao, Shao Hongen, Ai, Wei, and Li Keqin. [[pa
 This is an official implementation of 'Masked Graph Learning With Recurrent Alignment for Multimodal Emotion Recognition in Conversation' :fire:. Any problems, please contact shouyuntao@stu.xjtu.edu.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository :heart:.
 
 <div  align="center"> 
-  <img src="https://github.com/yuntaoshou/AGF-IB/blob/main/AGF-IB.png" width=100% />
+  <img src="https://github.com/yuntaoshou/MGLRA/blob/main/archi.png" width=100% />
 </div>
 
 

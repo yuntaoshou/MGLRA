@@ -5,7 +5,7 @@
 [AKGR-url]: https://github.com/yuntaoshou/MGLRA
 
 # Masked Graph Learning With Recurrent Alignment for Multimodal Emotion Recognition in Conversation
-By Meng, Tao and Zhang, Fuchen and Shou, Yuntao and Shao, Hongen and Ai, Wei and Li, Keqin. [[paper link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10612252)
+By Meng Tao, Zhang Fuchen, Shou Yuntao, Shao Hongen, Ai, Wei, and Li Keqin. [[paper link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10612252)
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
